@@ -1,7 +1,5 @@
 # Notebooks
 
-## GitHub gives an error when trying to upload these notebooks, so here are the links
-
 ### Classification with 5 labels (old code)
 BERT: https://colab.research.google.com/drive/1QQ25ERLjMYaR2R01OxH_SVf88DDSnFJi?usp=drive_link  
 RoBERTa: https://colab.research.google.com/drive/1Kp-uR9WBsIqZjSTWa9-Qmy0tJBdeWhEU?usp=drive_link  
