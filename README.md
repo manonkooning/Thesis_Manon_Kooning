@@ -37,3 +37,9 @@ The file `classified_output_topics.csv` contains the results of classifying stor
 
 https://drive.google.com/drive/folders/1PclYOGt4jK8dUiOy74PvkWd5HfnA3uX6?usp=drive_link
 
+## How to Conduct the Research
+
+1. Use the DistilBERT binary classification Google Colab file to label everything except `world_making`. Label the file called `threads1000_format_preprocessed.csv`.
+2. Use the RoBERTa binary classification Google Colab file to label `world_making` on the output of step 1.
+3. Use the DeBERTa topic classification Google Colab file to add the topics to the file from the output of step 2.
+4. Use the file called `correlations.py` to perfrom the Chi-Square test on the file from the output of step 3.
