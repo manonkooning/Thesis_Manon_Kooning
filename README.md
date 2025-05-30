@@ -33,5 +33,7 @@ This repository contains files related to the thesis of Manon Kooning. Below is 
 
 All other shared files can be found on Google Drive. The file called `threads1000_format_preprocessed.csv` was used for labeling.
 
+The file `classified_output_topics.csv` contains the results of classifying story, agency, and event sequencing using DistilBERT, world making (oversampled) using RoBERTa, and topic classification using DeBERTa. This file was later used as input for the script `correlations.py.`
+
 https://drive.google.com/drive/folders/1PclYOGt4jK8dUiOy74PvkWd5HfnA3uX6?usp=drive_link
 
