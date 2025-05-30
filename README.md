@@ -31,7 +31,7 @@ This repository contains files related to the thesis of Manon Kooning. Below is 
 
 ## Google Drive
 
-All other shared files can be found on Google Drive. The file called threads1000_format_preprocessed.json was used for labeling.
+All other shared files can be found on Google Drive. The file called `threads1000_format_preprocessed.csv` was used for labeling.
 
 https://drive.google.com/drive/folders/1PclYOGt4jK8dUiOy74PvkWd5HfnA3uX6?usp=drive_link
 
