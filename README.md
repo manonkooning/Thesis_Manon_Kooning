@@ -29,7 +29,7 @@ This repository contains files related to the thesis of Manon Kooning. Below is 
 - **classified_output_error_analysis_distilbert.csv**
   This file contains the model's labeled output on the test set. I used this file to perform an error analysis.
 
-  **classified_output_error_analysis_roberta.csv**
+- **classified_output_error_analysis_roberta.csv**
   This file contains the model's labeled output on the test set. I used this file to perform an error analysis.
 
 - **topic_distribution**  
