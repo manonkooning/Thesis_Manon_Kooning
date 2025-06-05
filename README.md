@@ -26,6 +26,12 @@ This repository contains files related to the thesis of Manon Kooning. Below is 
 - **modified_train**  
   `gold_standard_train` modified to contain only 2 classes (binary).
 
+- **classified_output_error_analysis_distilbert.csv**
+  This file contains the model's labeled output on the test set. I used this file to perform an error analysis.
+
+  **classified_output_error_analysis_roberta.csv**
+  This file contains the model's labeled output on the test set. I used this file to perform an error analysis.
+
 - **topic_distribution**  
   Displays the distribution of topics in the labeled dataset.
 
