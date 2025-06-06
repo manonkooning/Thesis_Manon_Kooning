@@ -6,7 +6,7 @@ Individual files of Manon Kooning
 
 ## Repository Structure and File Descriptions
 
-This repository contains files related to the thesis of Manon Kooning. Below is a description of the key files and their purposes:
+This repository contains files related to the thesis of Manon Kooning. Below is a description of the files and their purposes:
 
 - **Notebooks** 
   Contains Google Colab links to the classification tasks (elements & topic using BERT models).
