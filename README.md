@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1PclYOGt4jK8dUiOy74PvkWd5HfnA3uX6?usp=dri
 
 ## How to Conduct the Research
 
-1. Use the DistilBERT binary classification Google Colab file to label everything except `world_making`. Label the file called `threads1000_format_preprocessed.csv`. Use the files called `modified_train` to train the model on and `model_test` to test the model on.
-2. Use the RoBERTa binary classification Google Colab file to label `world_making` on the output file of step 1. Use the files called `modified_train` to train the model on and `model_test` to test the model on.
+1. Use the DistilBERT binary classification Google Colab file to label everything except `world_making`. Label the file called `threads1000_format_preprocessed.csv`. Use the files called `modified_train` to train the model on and `modified_test` to test the model on.
+2. Use the RoBERTa binary classification Google Colab file to label `world_making` on the output file of step 1. Use the files called `modified_train` to train the model on and `modified_test` to test the model on.
 3. Use the DeBERTa topic classification Google Colab file to add the topics to the file from the output of step 2.
-4. Use the file called `correlations.py` to perfrom the Chi-Square test on the file from the output of step 3.
+4. Use the file called `correlations.py` to perfrom the Chi-Square test on the file from the output of step 3. Or you can use the file called `classified_output_topics.csv` as input for this script if you want to skip step 1, 2, and 3.
